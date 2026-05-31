@@ -35,4 +35,4 @@ Para rodar este projeto, você precisará ter instalado em sua máquina:
 **1. Clone o repositório:**
 Abra o seu terminal e rode o comando abaixo:
 ```bash
-git clone [https://github.com/HenriqueMPereira/fipe-api-java.git](https://github.com/HenriqueMPereira/fipe-api-java.git)
+git clone https://github.com/HenriqueMPereira/fipe-api-java.git
